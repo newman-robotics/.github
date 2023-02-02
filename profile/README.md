@@ -11,7 +11,7 @@ Check out our software!
 ### Previous Seasons:
 - [2022 - 2023](https://github.com/newman-robotics/2022-2023) 
 
-  *Programmers: Declan Scott '23 and Owen Kelley '28*
+  *Programmers: Declan Scott '23, Jules Hohmann '24, and Owen Kelley '28*
   
 - [2021 - 2022](https://github.com/newman-robotics/2021-2022) 
 

@@ -28,3 +28,4 @@ Check out our software!
 ### Other Software:
 Here's some other things we've made in the past.
 - [BFS (Breadth First Search) Pathfinding Alogorithm](https://github.com/newman-robotics/BFS-Pathfinding-Java)
+- [Java Moving Average Filter Implementation](https://github.com/newman-robotics/MovingAverageFilter)
